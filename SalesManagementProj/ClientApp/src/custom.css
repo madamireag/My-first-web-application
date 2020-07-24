@@ -1,0 +1,51 @@
+/* Provide sufficient contrast against white background */
+a  {
+  color: #0366d6;
+ 
+}
+#add-btn {
+    float: right;
+    position: relative;
+    bottom: 20px;
+    color:darkkhaki;
+   
+}
+.card{
+   
+    position:relative;
+    width:60%;
+}
+#product {
+    width: 35%;
+    height: auto;
+}
+#tabelLabel{
+    position:relative;
+    top:25px;
+    bottom:25px;
+}
+#delete-btn{
+    position:relative;
+    left:20px;
+}
+.row {
+    position: relative;
+    top: 30px;
+}
+
+code {
+    color: #E01A76;
+}
+
+.btn-primary {
+    color:azure;
+    background-color: #651870cc;
+    border-color: #1861ac;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
